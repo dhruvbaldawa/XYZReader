@@ -33,7 +33,7 @@
             android:paddingRight="16dp"
             android:paddingBottom="4dp"
             android:ellipsize="end"
-            android:lines="2"
+            android:lines="3"
             />
 
         <TextView
